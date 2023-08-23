@@ -37,7 +37,7 @@ const servico = new Schema({
     required: true,
   },
   dataCadastro: {
-    type: String,aa
+    type: String,
     required: true,
   },
 });
